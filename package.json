@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/quia-ducimus-placeat-minima",
-  "version": "5.5.85",
+  "version": "5.5.86",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -365,5 +365,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/quia-ducimus-placeat-minima/issues"
   },
-  "packageManager": "yarn@4.3.1"
+  "packageManager": "yarn@4.4.0"
 }
